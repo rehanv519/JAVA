@@ -43,13 +43,7 @@ public static void main(String[] args)
               System.out.println(ary[i][j]);
           }    
       }  
-      for(int[] row : ary)
-      {
-          for(int u : row)
-          {
-              System.out.println(i);
-          }    
-      }
+     
 }        
     
 }
