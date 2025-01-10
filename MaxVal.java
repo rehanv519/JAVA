@@ -18,5 +18,5 @@ public class MaxVal {
         System.out.println(y);
     }
     
-    
+    }   
 }
